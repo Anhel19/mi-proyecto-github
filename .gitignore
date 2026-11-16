@@ -1,1 +1,7 @@
 credenciales.txt
+*.env
+.env*
+node_modules/
+*.log
+git_log_output.txt
+
